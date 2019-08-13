@@ -1,2 +1,3 @@
 # SpaceGirlsNYC
-Resources for the Space Apps Challenge and other Spacey things
+Resources for the Space Apps Challenge and the rest of the Universe
+
