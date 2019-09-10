@@ -352,32 +352,3 @@ Resources for the Space Apps Challenge and the rest of the Universe
 
 [Unity WMS client - Google Search](https://www.google.com/search?client=firefox-b-1-d&ei=0Bc9XevOLMSvggfP1rGQBQ&q=Unity+WMS+client&oq=Unity+WMS+client&gs_l=psy-ab.3...28918.29655..33373...0.0..0.195.473.4j1......0....1..gws-wiz.......0i71j0i7i30.7bdvwI-ajUg&ved=0ahUKEwjr9pKl19bjAhXEl-AKHU9rDFIQ4dUDCAo&uact=5)
 
-### Bookmarks Toolbar
-
-Add bookmarks to this folder to see them displayed on the Bookmarks Toolbar
-
-[Most Visited](place:sort=8&maxResults=10)
-
-[Nueva mujer](http://www.nuevamujer.com/)
-
-[Getting Started](https://www.mozilla.org/en-US/firefox/central/)
-
-[Reminder: Girls Club Design & Social Media shared "Women Who Change the World Murals" with you - dave.pentecost@gmail.com - Gmail](https://mail.google.com/mail/u/1/#inbox/1634c783e293e06c)
-
-[Sumerian - Dashboard](https://us-east-1.sumerian.amazonaws.com/start)
-
-[Digital fulldome test pattern](http://paulbourke.net/dome/testpattern/)
-
-[GOES-East - Latest CONUS Images - NOAA / NESDIS / STAR](https://www.star.nesdis.noaa.gov/GOES/GOES16_CONUS.php)
-
-[EOSDIS Worldview](https://worldview.earthdata.nasa.gov/?p=geographic&l=VIIRS_SNPP_CorrectedReflectance_TrueColor,MODIS_Terra_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),Reference_Features(hidden)&t=2018-09-11-T00%3A00%3A00Z&z=3&v=-186.14593287552336,-144.27582454701448,286.3540671244766,124.03667545298552&ab=off&as=2018-09-06T00%3A00%3A00Z&ae=2018-09-13T00%3A00%3A00Z&av=3&al=true)
-
-[Index of /cdn02/GOES/data/GOES16/ABI/GIFS/](https://cdn.star.nesdis.noaa.gov/GOES16/ABI/GIFS/)
-
-[The High Frontier: An Easier Way: Tom Marotta, Al Globus: 9781719231749: Amazon.com: Books](https://www.amazon.com/High-Frontier-Easier-Way/dp/1719231745/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1538610391&sr=1-1)
-
-[NASA Earth Observatory - Home](https://earthobservatory.nasa.gov/)
-
-### Other Bookmarks
-
-[Amazon.com: 2V27522 - HP DisplayPort to DVI-D Adapter: Hewlett-Packard: Home Audio & Theater](https://www.amazon.com/2V27522-HP-DisplayPort-DVI-D-Adapter/dp/B001GV232A)
