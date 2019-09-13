@@ -3,7 +3,7 @@ Resources for the Space Apps Challenge and the rest of the Universe
 
 
 
-## So Many Links!
+## Start Here!
 ==============
 
 ### Space Apps Challenge 2019
@@ -13,7 +13,6 @@ Resources for the Space Apps Challenge and the rest of the Universe
 [Space Apps - Challenges](https://2019.spaceappschallenge.org/challenges/)
 
 [Space Apps - Space Girls NYC page](https://2019.spaceappschallenge.org/locations/girls-club-nyc/)
-
 
 ### OpenSpace, SPICE
 
@@ -27,9 +26,18 @@ Resources for the Space Apps Challenge and the rest of the Universe
 
 ### Glitch Platform
 
+[Glitch - Main Page](https://glitch.com/)
 [Glitch - Javascript Astronomy Picture of the Day Example](https://glitch.com/~nasa-apod-api)
 
+### NASA APIs Intro
 
+[NASA API Overview | How To Use NASA APIs](https://wilsjame.github.io/how-to-nasa/)
+
+[NASA Open APIs](https://api.nasa.gov/api.html#Scout)
+
+
+## And here are many more links!
+==============
 
 ### SpaceApps, Unity and APIs, Open Space notes
 
@@ -101,10 +109,6 @@ Resources for the Space Apps Challenge and the rest of the Universe
 [Parsing JSON in C#/Unity - Amara Graham - Medium](https://medium.com/@MissAmaraKay/parsing-json-in-c-unity-573d1e339b6f)
 
 [json2csharp - generate c# classes from json](http://json2csharp.com/?source=post_page---------------------------)
-
-[NASA API Overview | How To Use NASA APIs](https://wilsjame.github.io/how-to-nasa/)
-
-[NASA Open APIs](https://api.nasa.gov/api.html#Scout)
 
 [images.nasa.gov\_api\_docs.pdf](https://images.nasa.gov/docs/images.nasa.gov_api_docs.pdf)
 
