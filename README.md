@@ -36,9 +36,11 @@ Resources for the Space Apps Challenge and the rest of the Universe
 
 ### NASA APIs Intro
 
+[NASA Open APIs](https://api.nasa.gov/api.html#Scout)
+
 [NASA API Overview | How To Use NASA APIs](https://wilsjame.github.io/how-to-nasa/)
 
-[NASA Open APIs](https://api.nasa.gov/api.html#Scout)
+[NASA API Tutorial | Github Repo](https://github.com/wilsjame/how-to-nasa)
 
 
 
