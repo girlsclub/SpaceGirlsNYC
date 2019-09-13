@@ -16,9 +16,11 @@ Resources for the Space Apps Challenge and the rest of the Universe
 
 ### OpenSpace, SPICE
 
-[OpenSpace](https://github.com/OpenSpace)
+[OpenSpace download and tutorials](https://github.com/OpenSpace)
 
-[OpenPlanetary - SPICE Python Bsics](https://www.openplanetary.org/tutorial-series/intro-to-spice)
+[Open Space Notes from Micah 6/27/19 - Google Docs](https://docs.google.com/document/d/1VCUQ4jY-UwbNG4087vNeRFnpoguxSg_L0gmq5n0ZeZs/edit?ts=5d242817)
+
+[OpenPlanetary - SPICE Python Basics](https://www.openplanetary.org/tutorial-series/intro-to-spice)
 
 ### Unity Basics
 
@@ -46,11 +48,7 @@ Resources for the Space Apps Challenge and the rest of the Universe
 
 [SPICE workshop (a short one) - Events / PDW 2019 - OpenPlanetary Forum](https://forum.openplanetary.org/t/spice-workshop-a-short-one/120)
 
-[Open Space Notes from Micah 6/27/19 - Google Docs](https://docs.google.com/document/d/1VCUQ4jY-UwbNG4087vNeRFnpoguxSg_L0gmq5n0ZeZs/edit?ts=5d242817)
-
 [Json .NET for Unity Developers](https://www.dustinhorne.com/post/2013/09/25/Json-NET-for-Unity-Developers)
-
-[NASA API JSON how to display photo in Unity - Google Search](https://www.google.com/search?client=firefox-b-1-d&q=NASA+API+JSON+how+to+display+photo+in+Unity)
 
 [Get image URL from JSON and set it as button's source image - Unity Forum](https://forum.unity.com/threads/get-image-url-from-json-and-set-it-as-buttons-source-image.334535/)
 
