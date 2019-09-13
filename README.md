@@ -6,91 +6,48 @@ Resources for the Space Apps Challenge and the rest of the Universe
 ## So Many Links!
 ==============
 
+### Space Apps Challenge 2019
+
+[Space Apps - Main Page](https://www.spaceappschallenge.org/about/)
+[Space Apps - Challeges](https://2019.spaceappschallenge.org/challenges/)
+[Space Apps - Space Girls NYC page](https://2019.spaceappschallenge.org/locations/girls-club-nyc/)
 
 
-### NewFisheye\_VFX for Unity
-
-[Visual Effect Graph · Unity-Technologies/ScriptableRenderPipeline Wiki](https://github.com/Unity-Technologies/ScriptableRenderPipeline/wiki/Visual-Effect-Graph)
-
-[Releases · Unity-Technologies/VisualEffectGraph-Samples](https://github.com/Unity-Technologies/VisualEffectGraph-Samples/releases)
-
-[Roger Sodré (@Roger\_S) | Twitter](https://twitter.com/roger_s?lang=en)
-
-[rsodre/FulldomeCameraForUnity: Fulldome Camera for Unity 2018+](https://github.com/rsodre/FulldomeCameraForUnity)
-
-### Climate Control Arduino
-
-[Arduino Reference](https://www.arduino.cc/reference/en/language/structure/arithmetic-operators/modulo/)
-
-[Portable Arduino Temp/Humidity Sensor with LCD - Arduino Project Hub](https://create.arduino.cc/projecthub/ThothLoki/portable-arduino-temp-humidity-sensor-with-lcd-a750f4)
-
-[How to Set Up the DHT11 Humidity Sensor on an Arduino](http://www.circuitbasics.com/how-to-set-up-the-dht11-humidity-sensor-on-an-arduino/)
-
-[Using a DHTxx Sensor | DHT11, DHT22 and AM2302 Sensors | Adafruit Learning System](https://learn.adafruit.com/dht/using-a-dhtxx-sensor)
-
-[Wiring a Character LCD | Character LCDs | Adafruit Learning System](https://learn.adafruit.com/character-lcds/wiring-a-character-lcd)
-
-[arduino-dht22-am2302-sensor-lcd-circuit.jpg (JPEG Image, 1200 × 1026 pixels)](https://simple-circuit.com/wp-content/uploads/2017/11/arduino-dht22-am2302-sensor-lcd-circuit.jpg)
-
-[Introduction | WiFi Weather Station | Adafruit Learning System](https://learn.adafruit.com/wifi-weather-station-arduino-cc3000)
-
-[simple-circuit.com/arduino-dht22-am2302-sensor-lcd/](https://simple-circuit.com/arduino-dht22-am2302-sensor-lcd/)
-
-[Farm Geek – Mushroom Grow Room Temperature and Humidity Monitor – little bunyip](https://littlebunyip.com.au/2016/02/04/farm-geek-arduino-temperature-and-humidity-monitor/)
-
-[amazon.com/gp/item-dispatch/ref=dp\_csx\_sw\_cont\_](https://www.amazon.com/gp/item-dispatch/ref=dp_csx_sw_cont_)
-
-[Humidity/Temp Controlled Power Outlet | Hackaday.io](https://hackaday.io/project/3741-humiditytemp-controlled-power-outlet)
-
-[Opto-Isolated 2 Channel Relay Board](http://yourduino.com/sunshop//index.php?l=product_detail&p=218)
-
-[Overview | Introducing Adafruit Crickit #MakeRobotFriend | Adafruit Learning System](https://learn.adafruit.com/adafruit-crickit-creative-robotic-interactive-construction-kit)
-
-### OpenSpace, SPICE, Hacks
-
-[OpenPlanetary](https://www.openplanetary.org/tutorial-series/intro-to-spice)
+### OpenSpace, SPICE
 
 [OpenSpace](https://github.com/OpenSpace)
 
-[A Mixed Reality Solar System · amnh/HackTheSolarSystem Wiki](https://github.com/amnh/HackTheSolarSystem/wiki/A-Mixed-Reality-Solar-System)
+[OpenPlanetary - SPICE Python Bsics](https://www.openplanetary.org/tutorial-series/intro-to-spice)
 
-[Home · amnh/HackTheUniverse Wiki](https://github.com/amnh/HackTheUniverse/wiki)
+### Unity Basics
 
-[DigitalUniverse\_SolarSystem.unitypackage](https://www.dropbox.com/s/ip2f55r794y9n03/DigitalUniverse_SolarSystem.unitypackage?dl=0)
+[Unity LEARN - basic tutorials](https://learn.unity.com/)
 
-### JSON to C#
+### Glitch Platform
 
-[Simple JSON to Unity For Object Data | Jonathan Yu](https://www.jonathanyu.xyz/2017/02/27/simple-json-to-unity-for-object-data/)
+[Glitch - Javascript Astronomy Picture of the Day Example](https://glitch.com/~nasa-apod-api)
 
-[Parsing JSON in C#/Unity - Amara Graham - Medium](https://medium.com/@MissAmaraKay/parsing-json-in-c-unity-573d1e339b6f)
 
-[json2csharp - generate c# classes from json](http://json2csharp.com/?source=post_page---------------------------)
 
-[NASA API Overview | How To Use NASA APIs](https://wilsjame.github.io/how-to-nasa/)
+### SpaceApps, Unity and APIs, Open Space notes
 
-[NASA Open APIs](https://api.nasa.gov/api.html#Scout)
+[NASA Open APIs](https://api.nasa.gov/api.html#trek)
 
-[images.nasa.gov\_api\_docs.pdf](https://images.nasa.gov/docs/images.nasa.gov_api_docs.pdf)
+[SPICE workshop (a short one) - Events / PDW 2019 - OpenPlanetary Forum](https://forum.openplanetary.org/t/spice-workshop-a-short-one/120)
 
-[Unity - Manual: Script Serialization](https://docs.huihoo.com/unity/5.4/Documentation/en/Manual/script-Serialization.html)
+[Open Space Notes from Micah 6/27/19 - Google Docs](https://docs.google.com/document/d/1VCUQ4jY-UwbNG4087vNeRFnpoguxSg_L0gmq5n0ZeZs/edit?ts=5d242817)
 
-[Unity - Manual: Retrieving a Texture from an HTTP Server (GET)](https://docs.unity3d.com/Manual/UnityWebRequest-RetrievingTexture.html)
+[Json .NET for Unity Developers](https://www.dustinhorne.com/post/2013/09/25/Json-NET-for-Unity-Developers)
 
-### Vector Fields Unity
+[NASA API JSON how to display photo in Unity - Google Search](https://www.google.com/search?client=firefox-b-1-d&q=NASA+API+JSON+how+to+display+photo+in+Unity)
 
-[VectorayGen - Official Vector Field Plugin - FGA & 3D Texture Support - Effects Graph Compatible - Asset Store](https://assetstore.unity.com/packages/tools/particles-effects/vectoraygen-official-vector-field-plugin-fga-3d-texture-support--97239)
+[Get image URL from JSON and set it as button's source image - Unity Forum](https://forum.unity.com/threads/get-image-url-from-json-and-set-it-as-buttons-source-image.334535/)
 
-[Impromptu Vector Field Painter on Steam](https://store.steampowered.com/app/684330/Impromptu_Vector_Field_Painter/)
+[Unity - Scripting API: Material.SetTexture](https://docs.unity3d.com/ScriptReference/Material.SetTexture.html)
 
-[(1336) Unity Vector Fields - New Visual Effects Graph Support (3D Textures) - YouTube](https://www.youtube.com/watch?v=Q3hlohizVS0)
+[Unity How to : Load Image from WebLink or URL - YouTube](https://www.youtube.com/watch?v=kDp1an9rFfw)
 
-[(1336) Vector Field Maker Tutorial for Unity - YouTube](https://www.youtube.com/watch?v=Mh-zh_Hj0V4)
-
-[Vector Field Maker Pro - Asset Store](https://assetstore.unity.com/packages/tools/particles-effects/vector-field-maker-pro-141190)
-
-[Create vector field .fga from mesh - Google Search](https://www.google.com/search?q=Create+vector+field+.fga+from+mesh&tbm=isch&source=univ&client=firefox-b-1-d&sa=X&ved=2ahUKEwjK4NrL5uLjAhUBJt8KHdneDJAQsAR6BAgIEAE&biw=1635&bih=908&dpr=2)
-
-[Unity Asset Store - The Best Assets for Game Making](https://assetstore.unity.com/)
+[Unity How to : Load Image from WebLink or URL](https://gist.github.com/maxoja/957c757a83a0328833e4b9f031db7222)
 
 ### NASA APIs and REST Request
 
@@ -134,6 +91,26 @@ Resources for the Space Apps Challenge and the rest of the Universe
 
 [EOSDIS Worldview](https://worldview.earthdata.nasa.gov/?v=-212.14086544846327,-279.4807113624398,499.7773825381104,115.88428507291728&t=2019-02-17-T00%3A00%3A00Z&l=VIIRS_SNPP_CorrectedReflectance_TrueColor,MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden),LIS_ISS_Flash_Radiance(hidden),LIS_ISS_Flash_Count,Coastlines(hidden),Reference_Labels,Reference_Features)
 
+
+### JSON to C# (for Unity)
+
+[Simple JSON to Unity For Object Data | Jonathan Yu](https://www.jonathanyu.xyz/2017/02/27/simple-json-to-unity-for-object-data/)
+
+[Parsing JSON in C#/Unity - Amara Graham - Medium](https://medium.com/@MissAmaraKay/parsing-json-in-c-unity-573d1e339b6f)
+
+[json2csharp - generate c# classes from json](http://json2csharp.com/?source=post_page---------------------------)
+
+[NASA API Overview | How To Use NASA APIs](https://wilsjame.github.io/how-to-nasa/)
+
+[NASA Open APIs](https://api.nasa.gov/api.html#Scout)
+
+[images.nasa.gov\_api\_docs.pdf](https://images.nasa.gov/docs/images.nasa.gov_api_docs.pdf)
+
+[Unity - Manual: Script Serialization](https://docs.huihoo.com/unity/5.4/Documentation/en/Manual/script-Serialization.html)
+
+[Unity - Manual: Retrieving a Texture from an HTTP Server (GET)](https://docs.unity3d.com/Manual/UnityWebRequest-RetrievingTexture.html)
+
+
 ### NASA SVS Server tabs
 
 [GMS: Science On a Sphere: A Global Tour of Precipitation from NASA](https://svs.gsfc.nasa.gov/12126)
@@ -164,6 +141,7 @@ Resources for the Space Apps Challenge and the rest of the Universe
 
 [NASA SVS Server How to find cylindrical equirectangular images - Google Search](https://www.google.com/search?client=firefox-b-1-d&q=NASA+SVS+Server+How+to+find+cylindrical+equirectangular+images)
 
+
 ### RUNWAY ML Machine Learning with Dan Shiffman
 
 [Introduction to RunwayML - YouTube](https://www.youtube.com/watch?v=QzRW0xzm10c&feature=youtu.be)
@@ -171,6 +149,7 @@ Resources for the Space Apps Challenge and the rest of the Universe
 [Runway ML | Machine learning for creators](https://runwayml.com/download)
 
 [New Tab](about:home)
+
 
 ### Melodie Yashar Mars Space Habitats
 
@@ -190,7 +169,8 @@ Resources for the Space Apps Challenge and the rest of the Universe
 
 [New Tab](about:newtab)
 
-### Population - VIZ, Mapbox, Keijiro Unity
+
+### Population - Data VIZ, Mapbox, Keijiro Unity example
 
 [Population Mountains](https://pudding.cool/2018/12/3d-cities-story/)
 
@@ -207,6 +187,7 @@ Resources for the Space Apps Challenge and the rest of the Universe
 [Center for International Earth Science Information Network](http://www.ciesin.columbia.edu/programs.html)
 
 [keijiro/GeoVfx: Examples of geographical data visualization with Unity VFX Graph](https://github.com/keijiro/GeoVfx)
+
 
 ### More Unity, JSON, Postman API requests
 
@@ -260,27 +241,8 @@ Resources for the Space Apps Challenge and the rest of the Universe
 
 [Library | Apis Cor](https://www.apis-cor.com/library)
 
-### SpaceApps, Unityand APIs, Open Space notes
 
-[NASA Open APIs](https://api.nasa.gov/api.html#trek)
-
-[SPICE workshop (a short one) - Events / PDW 2019 - OpenPlanetary Forum](https://forum.openplanetary.org/t/spice-workshop-a-short-one/120)
-
-[IN PROGRESS Open Space Notes 6/27/19 - Google Docs](https://docs.google.com/document/d/1VCUQ4jY-UwbNG4087vNeRFnpoguxSg_L0gmq5n0ZeZs/edit?ts=5d242817)
-
-[Json .NET for Unity Developers](https://www.dustinhorne.com/post/2013/09/25/Json-NET-for-Unity-Developers)
-
-[NASA API JSON how to display photo in Unity - Google Search](https://www.google.com/search?client=firefox-b-1-d&q=NASA+API+JSON+how+to+display+photo+in+Unity)
-
-[Get image URL from JSON and set it as button's source image - Unity Forum](https://forum.unity.com/threads/get-image-url-from-json-and-set-it-as-buttons-source-image.334535/)
-
-[Unity - Scripting API: Material.SetTexture](https://docs.unity3d.com/ScriptReference/Material.SetTexture.html)
-
-[Unity How to : Load Image from WebLink or URL - YouTube](https://www.youtube.com/watch?v=kDp1an9rFfw)
-
-[Unity How to : Load Image from WebLink or URL](https://gist.github.com/maxoja/957c757a83a0328833e4b9f031db7222)
-
-### Orbital Mechanica and Unity
+### Orbital Mechanics and Unity
 
 [Google Image Result for https://physicsforums-bernhardtmediall.netdna-ssl.com/insights/wp-content/uploads/2018/08/unity\_solar\_system2.jpg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fphysicsforums-bernhardtmediall.netdna-ssl.com%2Finsights%2Fwp-content%2Fuploads%2F2018%2F08%2Funity_solar_system2.jpg&imgrefurl=https%3A%2F%2Fwww.physicsforums.com%2Finsights%2Forbital-mechanics-in-unity-game-engine-for-augmented-reality%2F&docid=cdebAIrAKQtIHM&tbnid=qHGZy_UzxV8A1M%3A&vet=10ahUKEwignpbL7erjAhWxiOAKHYxbDk8QMwhVKBIwEg..i&w=500&h=256&client=firefox-b-1-d&bih=880&biw=1572&q=Solar%20system%20model%20in%20Unity&ved=0ahUKEwignpbL7erjAhWxiOAKHYxbDk8QMwhVKBIwEg&iact=mrc&uact=8)
 
@@ -354,3 +316,41 @@ Resources for the Space Apps Challenge and the rest of the Universe
 
 [Unity WMS client - Google Search](https://www.google.com/search?client=firefox-b-1-d&ei=0Bc9XevOLMSvggfP1rGQBQ&q=Unity+WMS+client&oq=Unity+WMS+client&gs_l=psy-ab.3...28918.29655..33373...0.0..0.195.473.4j1......0....1..gws-wiz.......0i71j0i7i30.7bdvwI-ajUg&ved=0ahUKEwjr9pKl19bjAhXEl-AKHU9rDFIQ4dUDCAo&uact=5)
 
+
+### NewFisheye\_VFX for Unity
+
+[Visual Effect Graph · Unity-Technologies/ScriptableRenderPipeline Wiki](https://github.com/Unity-Technologies/ScriptableRenderPipeline/wiki/Visual-Effect-Graph)
+
+[Releases · Unity-Technologies/VisualEffectGraph-Samples](https://github.com/Unity-Technologies/VisualEffectGraph-Samples/releases)
+
+[Roger Sodré (@Roger\_S) | Twitter](https://twitter.com/roger_s?lang=en)
+
+[rsodre/FulldomeCameraForUnity: Fulldome Camera for Unity 2018+](https://github.com/rsodre/FulldomeCameraForUnity)
+
+### Climate Control Arduino
+
+[Arduino Reference](https://www.arduino.cc/reference/en/language/structure/arithmetic-operators/modulo/)
+
+[Portable Arduino Temp/Humidity Sensor with LCD - Arduino Project Hub](https://create.arduino.cc/projecthub/ThothLoki/portable-arduino-temp-humidity-sensor-with-lcd-a750f4)
+
+[How to Set Up the DHT11 Humidity Sensor on an Arduino](http://www.circuitbasics.com/how-to-set-up-the-dht11-humidity-sensor-on-an-arduino/)
+
+[Using a DHTxx Sensor | DHT11, DHT22 and AM2302 Sensors | Adafruit Learning System](https://learn.adafruit.com/dht/using-a-dhtxx-sensor)
+
+[Wiring a Character LCD | Character LCDs | Adafruit Learning System](https://learn.adafruit.com/character-lcds/wiring-a-character-lcd)
+
+[arduino-dht22-am2302-sensor-lcd-circuit.jpg (JPEG Image, 1200 × 1026 pixels)](https://simple-circuit.com/wp-content/uploads/2017/11/arduino-dht22-am2302-sensor-lcd-circuit.jpg)
+
+[Introduction | WiFi Weather Station | Adafruit Learning System](https://learn.adafruit.com/wifi-weather-station-arduino-cc3000)
+
+[simple-circuit.com/arduino-dht22-am2302-sensor-lcd/](https://simple-circuit.com/arduino-dht22-am2302-sensor-lcd/)
+
+[Farm Geek – Mushroom Grow Room Temperature and Humidity Monitor – little bunyip](https://littlebunyip.com.au/2016/02/04/farm-geek-arduino-temperature-and-humidity-monitor/)
+
+[amazon.com/gp/item-dispatch/ref=dp\_csx\_sw\_cont\_](https://www.amazon.com/gp/item-dispatch/ref=dp_csx_sw_cont_)
+
+[Humidity/Temp Controlled Power Outlet | Hackaday.io](https://hackaday.io/project/3741-humiditytemp-controlled-power-outlet)
+
+[Opto-Isolated 2 Channel Relay Board](http://yourduino.com/sunshop//index.php?l=product_detail&p=218)
+
+[Overview | Introducing Adafruit Crickit #MakeRobotFriend | Adafruit Learning System](https://learn.adafruit.com/adafruit-crickit-creative-robotic-interactive-construction-kit)
