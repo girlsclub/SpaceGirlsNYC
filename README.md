@@ -16,7 +16,9 @@ Resources for the Space Apps Challenge and the rest of the Universe
 
 ### OpenSpace, SPICE
 
-[OpenSpace download and tutorials](https://github.com/OpenSpace)
+[OpenSpace download and tutorials](https://www.openspaceproject.com/)
+
+[OpenSpace repository](https://github.com/OpenSpace)
 
 [Open Space Notes from Micah 6/27/19 - Google Docs](https://docs.google.com/document/d/1VCUQ4jY-UwbNG4087vNeRFnpoguxSg_L0gmq5n0ZeZs/edit?ts=5d242817)
 
