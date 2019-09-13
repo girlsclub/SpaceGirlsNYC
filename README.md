@@ -31,6 +31,7 @@ Resources for the Space Apps Challenge and the rest of the Universe
 ### Glitch Platform
 
 [Glitch - Main Page](https://glitch.com/)
+
 [Glitch - Javascript Astronomy Picture of the Day Example](https://glitch.com/~nasa-apod-api)
 
 ### NASA APIs Intro
