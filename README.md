@@ -8,7 +8,7 @@ Resources for the Space Apps Challenge and the rest of the Universe
 
 
 
-### NewFisheye\_VFX
+### NewFisheye\_VFX for Unity
 
 [Visual Effect Graph · Unity-Technologies/ScriptableRenderPipeline Wiki](https://github.com/Unity-Technologies/ScriptableRenderPipeline/wiki/Visual-Effect-Graph)
 
@@ -18,7 +18,7 @@ Resources for the Space Apps Challenge and the rest of the Universe
 
 [rsodre/FulldomeCameraForUnity: Fulldome Camera for Unity 2018+](https://github.com/rsodre/FulldomeCameraForUnity)
 
-### ClimateControl
+### Climate Control Arduino
 
 [Arduino Reference](https://www.arduino.cc/reference/en/language/structure/arithmetic-operators/modulo/)
 
@@ -94,6 +94,8 @@ Resources for the Space Apps Challenge and the rest of the Universe
 
 ### NASA APIs and REST Request
 
+[Glitch - Javascript Astronomy Picture of the Day Example](https://glitch.com/~nasa-apod-api)
+
 [NASA Open APIs](https://api.nasa.gov/index.html#live_example)
 
 [FAQ | NASA Open Data Portal](https://data.nasa.gov/stories/s/g7d2-fwaf)
@@ -162,7 +164,7 @@ Resources for the Space Apps Challenge and the rest of the Universe
 
 [NASA SVS Server How to find cylindrical equirectangular images - Google Search](https://www.google.com/search?client=firefox-b-1-d&q=NASA+SVS+Server+How+to+find+cylindrical+equirectangular+images)
 
-### RUNWAY ML Shiffman
+### RUNWAY ML Machine Learning with Dan Shiffman
 
 [Introduction to RunwayML - YouTube](https://www.youtube.com/watch?v=QzRW0xzm10c&feature=youtu.be)
 
@@ -170,7 +172,7 @@ Resources for the Space Apps Challenge and the rest of the Universe
 
 [New Tab](about:home)
 
-### Melodie Yashar 4 Space Apps
+### Melodie Yashar Mars Space Habitats
 
 [Mars X-House: a 3D-Printed Habitat Prototype by SEArch+/Apis Cor — Kickstarter](https://www.kickstarter.com/projects/1625721571/mars-x-house-a-3d-printed-habitat-prototype-for-na)
 
@@ -206,7 +208,7 @@ Resources for the Space Apps Challenge and the rest of the Universe
 
 [keijiro/GeoVfx: Examples of geographical data visualization with Unity VFX Graph](https://github.com/keijiro/GeoVfx)
 
-### More Unity JSON Postman API requests
+### More Unity, JSON, Postman API requests
 
 [proyecto26/RestClient: 🦄 Simple HTTP and REST client for Unity based on Promises, also supports Callbacks! 🎮](https://github.com/proyecto26/RestClient)
 
