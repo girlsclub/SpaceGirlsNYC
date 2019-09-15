@@ -71,6 +71,8 @@ Resources for the Space Apps Challenge and the rest of the Universe
 
 [Unity How to : Load Image from WebLink or URL](https://gist.github.com/maxoja/957c757a83a0328833e4b9f031db7222)
 
+[Unity - Make Quad size the same aspect as the texture (APOD example fix)](https://answers.unity.com/questions/618922/setting-size-of-quad-to-textures-pixel-size.html)
+
 ### NASA APIs and REST Request
 
 [Glitch - Javascript Astronomy Picture of the Day Example](https://glitch.com/~nasa-apod-api)
@@ -129,13 +131,13 @@ Resources for the Space Apps Challenge and the rest of the Universe
 [Unity - Manual: Retrieving a Texture from an HTTP Server (GET)](https://docs.unity3d.com/Manual/UnityWebRequest-RetrievingTexture.html)
 
 
-### NASA SVS Server tabs
+### NASA Scientific Visualization Studio
 
 [GMS: Science On a Sphere: A Global Tour of Precipitation from NASA](https://svs.gsfc.nasa.gov/12126)
 
-[NASA Goddard Scientific Visualization Studio](https://svs.gsfc.nasa.gov/documents/index.html)
+[NASA Goddard Scientific Visualization Studio - Index](https://svs.gsfc.nasa.gov/documents/index.html)
 
-[NASA Goddard Scientific Visualization Studio](https://svs.gsfc.nasa.gov/documents/overview.html)
+[NASA Goddard SVS - Overview](https://svs.gsfc.nasa.gov/documents/overview.html)
 
 [NASA Goddard Scientific Visualization Studio](https://svs.gsfc.nasa.gov/documents/arch_1.html)
 
