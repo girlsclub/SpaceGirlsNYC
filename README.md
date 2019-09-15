@@ -26,6 +26,10 @@ Resources for the Space Apps Challenge and the rest of the Universe
 
 ### Unity Basics
 
+[Unity - Main Page](https://unity.com/)
+
+[Unity - Download](https://unity3d.com/get-unity/download)
+
 [Unity LEARN - basic tutorials](https://learn.unity.com/)
 
 ### Glitch Platform
