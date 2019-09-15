@@ -38,6 +38,8 @@ Resources for the Space Apps Challenge and the rest of the Universe
 
 [Glitch - Javascript Astronomy Picture of the Day Example](https://glitch.com/~nasa-apod-api)
 
+[Glitch - Astronomy Picture of the Day, simple example](https://glitch.com/~nasa-apod-api-project)
+
 ### NASA APIs Intro
 
 [NASA Open APIs - Getting Started](https://api.nasa.gov/index.html#getting-started)
