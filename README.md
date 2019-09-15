@@ -40,6 +40,8 @@ Resources for the Space Apps Challenge and the rest of the Universe
 
 [Glitch - Astronomy Picture of the Day, simple example](https://glitch.com/~nasa-apod-api-project)
 
+[Glitch - Twitterbot that tweets APOD every day](https://glitch.com/~dailynasa)
+
 ### NASA APIs Intro
 
 [NASA Open APIs - Getting Started](https://api.nasa.gov/index.html#getting-started)
