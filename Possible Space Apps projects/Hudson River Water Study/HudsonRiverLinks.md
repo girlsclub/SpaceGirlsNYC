@@ -3,10 +3,7 @@ Towards an app using NASA data and GIS to show NYC water source
 
 ==============
 
-### Space Apps Challenge 2019
+[A Guide for Communities in the Hudson River Estuary Watershed](http://www.dec.ny.gov/docs/remediation_hudson_pdf/nric4p3.pdf)
 
-[Space Apps - Main Page](https://www.spaceappschallenge.org/about/)
+[SCENIC_HUDSON_GIS_METHODOLOGY_SEA_LEVEL_RISE](http://www.scenichudson.org/sites/default/files/SCENIC_HUDSON_GIS_METHODOLOGY_SEA_LEVEL_RISE.pdf)
 
-[Space Apps - Challenges](https://2019.spaceappschallenge.org/challenges/)
-
-[Space Apps - Space Girls NYC page](https://2019.spaceappschallenge.org/locations/girls-club-nyc/)
