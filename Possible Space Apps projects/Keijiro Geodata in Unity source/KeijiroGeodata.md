@@ -1,5 +1,7 @@
-# SpaceGirlsNYC - Keijiro Geodata in Unity source
+# SpaceGirlsNYC - Keijiro Geodata in Unity
 Using Unity to display global data
+
+[Keijiro's GeoVFX Unity Project on Github](https://github.com/keijiro/GeoVfx)
 
 ==============
 
