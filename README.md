@@ -90,7 +90,7 @@ Science on a Sphere - public ftp server - ftp://public.sos.noaa.gov/
 
 [NASA Goddard SVS - Overview](https://svs.gsfc.nasa.gov/documents/overview.html)
 
-[NASA SVS Server How to find cylindrical equirectangular images - Google Search](https://www.google.com/search?client=firefox-b-1-d&q=NASA+SVS+Server+How+to+find+cylindrical+equirectangular+images)
+[NASA SVS Server - equirectangular images and image search](https://svs.gsfc.nasa.gov/documents/arch_6.html)
 
 
 
