@@ -79,6 +79,21 @@ Find links here, or get ideas from [our possible Space Apps Projects list](https
 
 [Unity - Make Quad size the same aspect as the texture (APOD example fix)](https://answers.unity.com/questions/618922/setting-size-of-quad-to-textures-pixel-size.html)
 
+
+### NASA Scientific Visualization Studio
+
+[GMS: Science On a Sphere: A Global Tour of Precipitation from NASA](https://svs.gsfc.nasa.gov/12126)
+
+Science on a Sphere - public ftp server - ftp://public.sos.noaa.gov/
+
+[NASA Goddard Scientific Visualization Studio - Index](https://svs.gsfc.nasa.gov/documents/index.html)
+
+[NASA Goddard SVS - Overview](https://svs.gsfc.nasa.gov/documents/overview.html)
+
+[NASA SVS Server How to find cylindrical equirectangular images - Google Search](https://www.google.com/search?client=firefox-b-1-d&q=NASA+SVS+Server+How+to+find+cylindrical+equirectangular+images)
+
+
+
 ### NASA APIs and REST Request
 
 [Glitch - Javascript Astronomy Picture of the Day Example](https://glitch.com/~nasa-apod-api)
@@ -135,39 +150,6 @@ Find links here, or get ideas from [our possible Space Apps Projects list](https
 [Unity - Manual: Script Serialization](https://docs.huihoo.com/unity/5.4/Documentation/en/Manual/script-Serialization.html)
 
 [Unity - Manual: Retrieving a Texture from an HTTP Server (GET)](https://docs.unity3d.com/Manual/UnityWebRequest-RetrievingTexture.html)
-
-
-### NASA Scientific Visualization Studio
-
-[GMS: Science On a Sphere: A Global Tour of Precipitation from NASA](https://svs.gsfc.nasa.gov/12126)
-
-Science on a Sphere - public ftp server - ftp://public.sos.noaa.gov/
-
-[NASA Goddard Scientific Visualization Studio - Index](https://svs.gsfc.nasa.gov/documents/index.html)
-
-[NASA Goddard SVS - Overview](https://svs.gsfc.nasa.gov/documents/overview.html)
-
-[NASA Goddard Scientific Visualization Studio](https://svs.gsfc.nasa.gov/documents/arch_1.html)
-
-[NASA Goddard Scientific Visualization Studio](https://svs.gsfc.nasa.gov/documents/arch_2.html)
-
-[NASA Goddard Scientific Visualization Studio](https://svs.gsfc.nasa.gov/documents/arch_3.html)
-
-[NASA Goddard Scientific Visualization Studio](https://svs.gsfc.nasa.gov/documents/arch_4.html)
-
-[NASA Goddard Scientific Visualization Studio](https://svs.gsfc.nasa.gov/documents/arch_4b.html)
-
-[NASA Goddard Scientific Visualization Studio](https://svs.gsfc.nasa.gov/documents/arch_5.html)
-
-[NASA Goddard Scientific Visualization Studio](https://svs.gsfc.nasa.gov/documents/arch_6.html)
-
-[NASA Goddard Scientific Visualization Studio](https://svs.gsfc.nasa.gov/documents/arch_style.html)
-
-[NASA Goddard Scientific Visualization Studio](https://svs.gsfc.nasa.gov/documents/arch_7.html)
-
-[NASA Goddard Scientific Visualization Studio](https://svs.gsfc.nasa.gov/documents/arch_8.html)
-
-[NASA SVS Server How to find cylindrical equirectangular images - Google Search](https://www.google.com/search?client=firefox-b-1-d&q=NASA+SVS+Server+How+to+find+cylindrical+equirectangular+images)
 
 
 ### RUNWAY ML Machine Learning with Dan Shiffman
