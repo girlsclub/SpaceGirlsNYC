@@ -16,11 +16,11 @@ Find links here, or get ideas from [our possible Space Apps Projects list](https
 
 [Space Apps - Space Girls NYC page](https://2019.spaceappschallenge.org/locations/girls-club-nyc/)
 
-### OpenSpace, SPICE
+### Open Space, SPICE
 
-[OpenSpace download and tutorials](https://www.openspaceproject.com/)
+[Open Space download and tutorials](https://www.openspaceproject.com/)
 
-[OpenSpace repository](https://github.com/OpenSpace)
+[Open Space repository](https://github.com/OpenSpace)
 
 [Open Space Notes from Micah 6/27/19 - Google Docs](https://docs.google.com/document/d/1VCUQ4jY-UwbNG4087vNeRFnpoguxSg_L0gmq5n0ZeZs/edit?usp=sharing)
 
