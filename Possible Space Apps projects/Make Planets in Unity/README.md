@@ -8,7 +8,7 @@ Find a texture (or video), put it on a sphere, float it in space!
 
 [Unity Manual - Textures and Materials](https://docs.unity3d.com/Manual/Materials.html)
 
-[NASA SVS Server - equirectangular images and image search](https://svs.gsfc.nasa.gov/documents/arch_6.html)
+[NASA SVS Server - equirectangular images and image search. (Advanced)](https://svs.gsfc.nasa.gov/documents/arch_6.html)
 
 [Unity - Video player component](https://docs.unity3d.com/Manual/class-VideoPlayer.html)
 
