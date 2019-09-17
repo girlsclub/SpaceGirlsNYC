@@ -141,7 +141,7 @@ Find links here, or get ideas from [our possible Space Apps Projects list](https
 
 [GMS: Science On a Sphere: A Global Tour of Precipitation from NASA](https://svs.gsfc.nasa.gov/12126)
 
-[Science on a Sphere - public ftp server - (ftp://public.sos.noaa.gov/)]
+Science on a Sphere - public ftp server - ftp://public.sos.noaa.gov/
 
 [NASA Goddard Scientific Visualization Studio - Index](https://svs.gsfc.nasa.gov/documents/index.html)
 
