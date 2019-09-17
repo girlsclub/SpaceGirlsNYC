@@ -24,6 +24,8 @@ Find links here, or get ideas from [our possible Space Apps Projects list](https
 
 [Open Space Notes from Micah 6/27/19 - Google Docs](https://docs.google.com/document/d/1VCUQ4jY-UwbNG4087vNeRFnpoguxSg_L0gmq5n0ZeZs/edit?usp=sharing)
 
+[NASA | NAIF (SPICE) Site](https://naif.jpl.nasa.gov/naif/links.html)
+
 [OpenPlanetary - SPICE Python Basics](https://www.openplanetary.org/tutorial-series/intro-to-spice)
 
 [NASA Horizons | Interface](https://ssd.jpl.nasa.gov/horizons.cgi)
