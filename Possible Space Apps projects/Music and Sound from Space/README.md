@@ -3,7 +3,7 @@ Make the Music of the Spheres! (or a spacey beat)
 
 ==============
 
-Look in folders for some sounds, try these links for more
+Look in folders for some sounds, and try these links for more
 
 [NASA Audio Collection - Internet Archive](https://archive.org/details/nasaaudiocollection?)
 
