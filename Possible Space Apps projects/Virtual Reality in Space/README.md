@@ -17,4 +17,4 @@ Look at NASA's VR resources, or make your own
 
 [Unity Manual - VR Overview](https://docs.unity3d.com/Manual/VROverview.html)
 
-[Unity VR Tutorial (with Vive)](https://www.raywenderlich.com/9189-htc-vive-tutorial-for-unity)
+[Unity - VR Tutorial (with Vive)](https://www.raywenderlich.com/9189-htc-vive-tutorial-for-unity)
