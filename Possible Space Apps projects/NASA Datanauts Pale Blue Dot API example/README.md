@@ -1,5 +1,5 @@
 # SpaceGirlsNYC - Pale Blue Dot
-An example from the Datanauts - Make Your Own!
+An example from the Datanauts - Now make Your own!
 
 ==============
 
