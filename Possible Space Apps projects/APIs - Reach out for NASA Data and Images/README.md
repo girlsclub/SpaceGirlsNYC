@@ -5,7 +5,7 @@ Write a code request to NASA
 
 [images.nasa.gov API Documentation](https://images.nasa.gov/docs/images.nasa.gov_api_docs.pdf)
 
-Glitch - Javascript Astronomy Picture of the Day Example](https://glitch.com/~nasa-apod-api)
+[Glitch - Javascript Astronomy Picture of the Day Example](https://glitch.com/~nasa-apod-api)
 
 [NASA Open APIs](https://api.nasa.gov/index.html#live_example)
 
