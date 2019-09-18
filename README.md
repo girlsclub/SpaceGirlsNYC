@@ -145,7 +145,7 @@ Science on a Sphere - public ftp server - ftp://public.sos.noaa.gov/
 
 [json2csharp - generate c# classes from json](http://json2csharp.com/?source=post_page---------------------------)
 
-[images.nasa.gov\_api\_docs.pdf](https://images.nasa.gov/docs/images.nasa.gov_api_docs.pdf)
+[images.nasa.gov API Documentation](https://images.nasa.gov/docs/images.nasa.gov_api_docs.pdf)
 
 [Unity - Manual: Script Serialization](https://docs.huihoo.com/unity/5.4/Documentation/en/Manual/script-Serialization.html)
 
