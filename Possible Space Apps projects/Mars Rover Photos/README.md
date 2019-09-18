@@ -1,5 +1,5 @@
 # SpaceGirlsNYC - Mars Rover Photos
-Another cool API - Request rover photos!
+Another cool API - Request Rover photos!
 
 ==============
 
