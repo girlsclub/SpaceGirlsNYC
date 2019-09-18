@@ -1,5 +1,5 @@
 # SpaceGirlsNYC - Weather and Climate from Space
-Using NASA satellite data
+Using NASA global satellite data
 
 ==============
 
