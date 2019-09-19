@@ -30,6 +30,8 @@ Find links here, or get ideas from [our possible Space Apps Projects list](https
 
 [NASA Horizons | Interface](https://ssd.jpl.nasa.gov/horizons.cgi)
 
+[SPICE workshop (a short one) - Events / PDW 2019 - OpenPlanetary Forum](https://forum.openplanetary.org/t/spice-workshop-a-short-one/120)
+
 ### Unity Basics
 
 [Unity - Main Page](https://unity.com/)
@@ -56,18 +58,17 @@ Find links here, or get ideas from [our possible Space Apps Projects list](https
 
 [NASA API Tutorial | Github Repo](https://github.com/wilsjame/how-to-nasa)
 
+[Programming A to Z - Shiffman on APIS, Bots](https://shiffman.net/a2z/node-api/)
+
+[nasa/dictionaries: A collection of NASA "dictionaries", including thesauri, taxonomies and ontologies.](https://github.com/nasa/dictionaries)
+
+[amueller/word\_cloud: A little word cloud generator in Python](https://github.com/amueller/word_cloud)
 
 ==============
 ## And here are many more links!
 ==============
 
-### SpaceApps, Unity and APIs, Open Space notes
-
-[NASA Open APIs](https://api.nasa.gov/api.html#trek)
-
-[SPICE workshop (a short one) - Events / PDW 2019 - OpenPlanetary Forum](https://forum.openplanetary.org/t/spice-workshop-a-short-one/120)
-
-[Json .NET for Unity Developers](https://www.dustinhorne.com/post/2013/09/25/Json-NET-for-Unity-Developers)
+### Unity and APIs - Tips
 
 [Get image URL from JSON and set it as button's source image - Unity Forum](https://forum.unity.com/threads/get-image-url-from-json-and-set-it-as-buttons-source-image.334535/)
 
@@ -78,6 +79,18 @@ Find links here, or get ideas from [our possible Space Apps Projects list](https
 [Unity How to : Load Image from WebLink or URL](https://gist.github.com/maxoja/957c757a83a0328833e4b9f031db7222)
 
 [Unity - Make Quad size the same aspect as the texture (APOD example fix)](https://answers.unity.com/questions/618922/setting-size-of-quad-to-textures-pixel-size.html)
+
+[Simple JSON to Unity For Object Data | Jonathan Yu](https://www.jonathanyu.xyz/2017/02/27/simple-json-to-unity-for-object-data/)
+
+[Parsing JSON in C#/Unity - Amara Graham - Medium](https://medium.com/@MissAmaraKay/parsing-json-in-c-unity-573d1e339b6f)
+
+[json2csharp - generate c# classes from json](http://json2csharp.com/?source=post_page---------------------------)
+
+[images.nasa.gov API Documentation](https://images.nasa.gov/docs/images.nasa.gov_api_docs.pdf)
+
+[Unity - Manual: Script Serialization](https://docs.huihoo.com/unity/5.4/Documentation/en/Manual/script-Serialization.html)
+
+[Unity - Manual: Retrieving a Texture from an HTTP Server (GET)](https://docs.unity3d.com/Manual/UnityWebRequest-RetrievingTexture.html)
 
 
 ### NASA Scientific Visualization Studio
@@ -96,8 +109,6 @@ Science on a Sphere - public ftp server - ftp://public.sos.noaa.gov/
 
 ### NASA APIs and REST Request
 
-[Glitch - Javascript Astronomy Picture of the Day Example](https://glitch.com/~nasa-apod-api)
-
 [NASA Open APIs](https://api.nasa.gov/index.html#live_example)
 
 [FAQ | NASA Open Data Portal](https://data.nasa.gov/stories/s/g7d2-fwaf)
@@ -112,45 +123,15 @@ Science on a Sphere - public ftp server - ftp://public.sos.noaa.gov/
 
 [OpenGIS Web Map Tile Service Implementation Standard | OGC](https://www.opengeospatial.org/standards/wmts)
 
-[REST request for Unity - Google Search](https://www.google.com/search?client=firefox-b-1-d&q=REST+request+for+Unity)
-
-[Rest Client for Unity - Asset Store](https://assetstore.unity.com/packages/tools/network/rest-client-for-unity-102501)
-
-[proyecto26/RestClient: 🦄 Simple HTTP and REST client for Unity based on Promises, also supports Callbacks! 🎮](https://github.com/proyecto26/RestClient)
-
 [(1323) REST API concepts and examples - YouTube](https://www.youtube.com/watch?v=7YcW25PHnAA)
 
 [NASA API Overview | How To Use NASA APIs](https://wilsjame.github.io/how-to-nasa/)
 
-[bmtgoncalves/pyNASA](https://github.com/bmtgoncalves/pyNASA)
-
-[nasa/dictionaries: A collection of NASA "dictionaries", including thesauri, taxonomies and ontologies.](https://github.com/nasa/dictionaries)
-
 [amueller/word\_cloud: A little word cloud generator in Python](https://github.com/amueller/word_cloud)
-
-[New button | Postman Learning Center](https://learning.getpostman.com/docs/postman/launching_postman/newbutton/#templates)
-
-[NASA API Overview | How To Use NASA APIs](https://wilsjame.github.io/how-to-nasa/)
 
 [Earthdata](https://earthdata.nasa.gov/)
 
 [EOSDIS Worldview](https://worldview.earthdata.nasa.gov/?v=-212.14086544846327,-279.4807113624398,499.7773825381104,115.88428507291728&t=2019-02-17-T00%3A00%3A00Z&l=VIIRS_SNPP_CorrectedReflectance_TrueColor,MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden),LIS_ISS_Flash_Radiance(hidden),LIS_ISS_Flash_Count,Coastlines(hidden),Reference_Labels,Reference_Features)
-
-
-### JSON to C# (for Unity)
-
-[Simple JSON to Unity For Object Data | Jonathan Yu](https://www.jonathanyu.xyz/2017/02/27/simple-json-to-unity-for-object-data/)
-
-[Parsing JSON in C#/Unity - Amara Graham - Medium](https://medium.com/@MissAmaraKay/parsing-json-in-c-unity-573d1e339b6f)
-
-[json2csharp - generate c# classes from json](http://json2csharp.com/?source=post_page---------------------------)
-
-[images.nasa.gov API Documentation](https://images.nasa.gov/docs/images.nasa.gov_api_docs.pdf)
-
-[Unity - Manual: Script Serialization](https://docs.huihoo.com/unity/5.4/Documentation/en/Manual/script-Serialization.html)
-
-[Unity - Manual: Retrieving a Texture from an HTTP Server (GET)](https://docs.unity3d.com/Manual/UnityWebRequest-RetrievingTexture.html)
-
 
 ### RUNWAY ML Machine Learning with Dan Shiffman
 
