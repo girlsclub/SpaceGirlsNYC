@@ -5,7 +5,7 @@ Opportunities for participants of Space Apps 2019 (and winners!)
 
 ## Collaborator Offer from Google
 
-Google is offering Space Apps participants $300 - $3,000 free credit* on the Google Cloud Platform to kick start their projects. 
+Google is offering Space Apps participants $300 - $3,000 free credit* on the [Google Cloud Platform](https://cloud.google.com/free/) to kick start their projects. 
 
 Google Cloud Platform is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search and YouTube. Space Apps participants can use Google Cloud Platform and its many products and services to easily launch cloud based applications (mobile, web, IoT, and much more) utilizing the best in big data, artificial intelligence, and machine learning there is. Please note: This Collaborator offer is available in the 72 countries listed [here](https://cloud.google.com/gcp-territory-list).
 
