@@ -46,7 +46,7 @@ Find links here, or get ideas from [our possible Space Apps Projects list](https
 
 [Glitch - Javascript Astronomy Picture of the Day Example](https://glitch.com/~nasa-apod-api)
 
-[Glitch - Astronomy Picture of the Day, simple example](https://glitch.com/~nasa-apod-api-project)
+[Glitch - Astronomy Picture of the Day API, simple example](https://glitch.com/~nasa-apod-api-project)
 
 [Glitch - Twitterbot that tweets APOD every day](https://glitch.com/~dailynasa)
 
