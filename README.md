@@ -158,8 +158,6 @@ Science on a Sphere - public ftp server - ftp://public.sos.noaa.gov/
 
 [Melodie Yashar](http://www.melodieyashar.com/)
 
-[New Tab](about:newtab)
-
 
 ### Population - Data VIZ, Mapbox, Keijiro Unity example
 
