@@ -1,5 +1,5 @@
 # SpaceGirlsNYC - 2019 Collaborators and Special Offers
-Opportunities for participants (and winners!)
+Opportunities for participants of Space Apps 2019 (and winners!)
 
 ==============
 
