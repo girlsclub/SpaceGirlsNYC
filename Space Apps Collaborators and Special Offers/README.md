@@ -11,13 +11,12 @@ Google Cloud Platform is a suite of cloud computing services that runs on the sa
 
 # Global Collaborator from Neustar
 
-Neustar is offering all Space Apps 2019 participants their own free, one-year registration of a domain name and website builder using .US domains (for US-based participants) and .CO domains (for participants in other parts of the world). The free domain + website builder creates value for Space Apps participants by enabling them to more easily make solutions created at Space Apps accessible and to share them via social media.
+[Neustar](https://www.home.neustar/) is offering all Space Apps 2019 participants their own free, one-year registration of a domain name and website builder using .US domains (for US-based participants) and .CO domains (for participants in other parts of the world). The free domain + website builder creates value for Space Apps participants by enabling them to more easily make solutions created at Space Apps accessible and to share them via social media.
 
 # Global Collaborator from Sinergise (Sentinel Hub)
 
     30-day free trial to Sentinel Hub
-    1-year free App developers & Enterprise account to winners of
-    local Space Apps events using Sentinel Hub in their projects
+    1-year free App developers & Enterprise account to winners of local Space Apps events using Sentinel Hub in their projects
 
 Sinergise is offering Space Apps events the use of Sentinel Hub services for the processing and distribution of Earth observation (EO) data, specifically:
 
