@@ -1,7 +1,12 @@
 # SpaceGirlsNYC - Mars Terrain, Habitats, Astronaut Astrella
+## Use OpenSpace or Unity to create explorable Mars scenes
 
-Use Open Space or Unity to create explorable Mars scenes
+
 ==============
+
+[OpenSpace - Download and Tutorials](https://www.openspaceproject.com/)
+
+Can we hack a Mars vehicle and a follow cam in OpenSpace? Ask Micah!
 
 [Areo Browser - Download pieces of HiRISE Mars terrain](http://areobrowser.com/)
 
