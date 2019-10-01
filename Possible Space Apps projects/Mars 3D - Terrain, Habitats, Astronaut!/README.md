@@ -1,5 +1,6 @@
 # SpaceGirlsNYC - Mars Terrain, Habitats, Astronaut Astrella
 ## Use OpenSpace or Unity to create explorable Mars scenes
+## Put Astrella on the surface with the Curiosity Rover
 
 
 ==============
@@ -15,3 +16,5 @@ Can we hack a Mars vehicle and a follow cam in OpenSpace? Ask Micah!
 [Student designs of Mars Habitats](https://www.nasa.gov/feature/students-design-space-habitat-concepts-for-mars)
 
 [Astrella Astronaut Character (use Unity 2018.3)](https://drive.google.com/file/d/1sQfc9KizxmKCsIC3NZOcEpjhuPqKNMpU/view?usp=sharing)
+
+[A Cool WebVR exploring the surface of Mars with the Curiosity Rover](https://accessmars.withgoogle.com/)
