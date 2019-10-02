@@ -1,5 +1,5 @@
 # SpaceGirlsNYC - Make a Galaxy in Unity
-Use Unity particle effects or create one in VR with Tilt Brush
+Use Unity particle effects or create a galaxy in VR with Tilt Brush
 
 ==============
 
