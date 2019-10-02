@@ -13,6 +13,7 @@ Find links here, or get ideas from [our possible Space Apps Projects list](https
 [Space Apps - Main Page](https://www.spaceappschallenge.org/about/)
 
 [Space Apps - Challenges](https://2019.spaceappschallenge.org/challenges/)
+
 Click on each challenge and dig down for many ideas - including Make Up Your Own Challenge!
 
 [Space Apps - Space Girls NYC page](https://2019.spaceappschallenge.org/locations/girls-club-nyc/)
