@@ -10,7 +10,9 @@ Put Astrella on the surface with the Curiosity Rover
 
 Can we hack a Mars vehicle and a follow cam in OpenSpace? Ask Micah!
 
-[Areo Browser - Download pieces of HiRISE Mars terrain](http://areobrowser.com/)
+[NASA tool for HiRISE terrain imaging - DERT - Tutorial](https://github.com/nasa/DERT/wiki/MRO-HiRISE-Example)
+
+[Areo Browser - Download pieces of HiRISE Mars terrain, 3D print or use in Unity!](http://areobrowser.com/)
 
 [Mars Habitat designs](https://www.engadget.com/2018/07/29/nasa-mars-habitat-contest-finalists/)
 
