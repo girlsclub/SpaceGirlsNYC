@@ -20,4 +20,6 @@ Can we hack a Mars vehicle and a follow cam in OpenSpace? Ask Micah!
 
 [A Cool WebVR exploring the surface of Mars with the Curiosity Rover](https://accessmars.withgoogle.com/)
 
-[Download the Curiosity model as FBX to use in Unity](https://drive.google.com/file/d/1eSjIxMfl1e8xyuv7W5NaUwWBgVv2O9vf/view?usp=sharing)
+[Curiosity 3D model in glTF and USDZ formats (NASA download)](https://mars.nasa.gov/resources/24584/curiosity-3d-model/)
+
+[Download the Curiosity model as FBX to use in Unity (Unity Package)](https://drive.google.com/file/d/1eSjIxMfl1e8xyuv7W5NaUwWBgVv2O9vf/view?usp=sharing)
