@@ -14,3 +14,9 @@ Look in folders for some sounds, and try these links for more
 [Van Allen Probes - Spacecraft and Instruments | NASA](https://www.nasa.gov/mission_pages/rbsp/spacecraft/index.html)
 
 [EMFISIS- Instrument Description](https://emfisis.physics.uiowa.edu)
+
+[Mars sounds - Dinks and Doinks](https://chirb.it/9A7K4J)
+
+[More Mars Sounds](https://news.sky.com/story/nasa-records-mysterious-sounds-on-mars-11824909)
+
+[More about the Mars Sounds](https://news.sky.com/story/mars-we-hear-you-nasas-insight-detects-first-likely-marsquake-11702039)
