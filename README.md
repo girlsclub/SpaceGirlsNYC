@@ -210,8 +210,6 @@ Science on a Sphere - public ftp server - ftp://public.sos.noaa.gov/
 
 [Space v1: get started tutorial](https://documenter.getpostman.com/view/1559645/S1LvV8rH?version=latest)
 
-[gcdave's uploaded images - Imgur](https://gcdave.imgur.com/all/)
-
 [Imgur API](https://apidocs.imgur.com/?version=latest)
 
 [c# - How do you get access\_token and refresh\_token from Imgur? - Stack Overflow](https://stackoverflow.com/questions/37486480/how-do-you-get-access-token-and-refresh-token-from-imgur)
