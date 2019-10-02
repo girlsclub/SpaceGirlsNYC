@@ -18,3 +18,5 @@ Can we hack a Mars vehicle and a follow cam in OpenSpace? Ask Micah!
 [Astrella Astronaut Character (use Unity 2018.3)](https://drive.google.com/file/d/1sQfc9KizxmKCsIC3NZOcEpjhuPqKNMpU/view?usp=sharing)
 
 [A Cool WebVR exploring the surface of Mars with the Curiosity Rover](https://accessmars.withgoogle.com/)
+
+[Download the Curiosity model as FBX to use in Unity](https://drive.google.com/file/d/1eSjIxMfl1e8xyuv7W5NaUwWBgVv2O9vf/view?usp=sharing)
