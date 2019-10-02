@@ -1,5 +1,5 @@
 # SpaceGirlsNYC
-Resources for the NASA Space Apps Challenge and the rest of the Universe
+Resources for the NASA Space Apps Challenge and Beyond!
 
 Find links here, or get ideas from [our possible Space Apps Projects list](https://github.com/girlsclub/SpaceGirlsNYC/tree/master/Possible%20Space%20Apps%20projects)
 
