@@ -1,6 +1,7 @@
 # SpaceGirlsNYC - Mars Terrain, Habitats, Astronaut Astrella
-## Use OpenSpace or Unity to create explorable Mars scenes
-## Put Astrella on the surface with the Curiosity Rover
+Use OpenSpace or Unity to create explorable Mars scenes
+
+Put Astrella on the surface with the Curiosity Rover
 
 
 ==============
