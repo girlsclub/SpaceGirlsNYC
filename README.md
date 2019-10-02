@@ -52,6 +52,8 @@ Click on each challenge and dig down for many ideas - including Make Up Your Own
 
 [Glitch - Twitterbot that tweets APOD every day](https://glitch.com/~dailynasa)
 
+[Glitch - WebVR Starter Kit - A Planetarium! (well, a solar system model)](https://glitch.com/~webvr-planetarium)
+
 ### NASA APIs Intro
 
 [NASA Open APIs - Getting Started](https://api.nasa.gov/index.html#getting-started)
@@ -59,6 +61,8 @@ Click on each challenge and dig down for many ideas - including Make Up Your Own
 [NASA API Tutorial | How To Use NASA APIs](https://wilsjame.github.io/how-to-nasa/)
 
 [NASA API Tutorial | Github Repo](https://github.com/wilsjame/how-to-nasa)
+
+[NASA API Tutorial - 15 minutes on Youtube - Good step-by-step Javascript coding](https://www.youtube.com/watch?v=FBTlPriUyWY)
 
 [Programming A to Z - Shiffman on APIS, Bots](https://shiffman.net/a2z/node-api/)
 
