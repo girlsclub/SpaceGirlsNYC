@@ -8,4 +8,4 @@ Make an explainer, put Astrella on the moon, Make AR
 
 [Space Apps - Challenges](https://2019.spaceappschallenge.org/challenges/)
 
-[Space Apps - Space Girls NYC page](https://2019.spaceappschallenge.org/locations/girls-club-nyc/)
+[Reality Composer - AR on iPhone and iPad](https://developer.apple.com/documentation/realitykit/creating_3d_content_with_reality_composer)
