@@ -10,3 +10,5 @@ Using global satellite data
 [NOAA - Explore the World in Real-Time - Satellite images](https://www.nesdis.noaa.gov/content/imagery-and-data)
 
 [NOAA - Our Satellites](https://www.nesdis.noaa.gov/content/our-satellites)
+
+[NASA - EARTHDATA](https://earthdata.nasa.gov/)
