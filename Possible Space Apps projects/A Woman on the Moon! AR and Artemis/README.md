@@ -24,6 +24,8 @@ Next three items require Apple Developer registration - See Dave
 
 [Reality Composer - AR on iPhone and iPad](https://9to5mac.com/2019/09/19/apple-ar-protoyping-app-reality-composer/)
 
-Next item may require Medium subscription
+Next items may require Medium subscription
 
 [Medium - If needed: details on editing USDZ files](https://medium.com/were-working-on-it/apples-arkit3-0-just-made-ar-actually-useful-for-us-fc66e1f1d3ae)
+
+[Medium - How to Make an AR explainer, with interactive text](https://medium.com/augmentop/how-to-prototype-ar-experiences-in-1-hour-using-reality-composer-803af070c7eb)
