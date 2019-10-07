@@ -24,7 +24,9 @@ Next three items require Apple Developer registration - See Dave
 
 [Reality Composer - AR on iPhone and iPad](https://9to5mac.com/2019/09/19/apple-ar-protoyping-app-reality-composer/)
 
-Next items may require Medium subscription
+Next items may require Medium subscription - see Dave
+
+[What is USDZ? and how to convert files](https://medium.com/better-programming/what-is-usdz-and-how-to-convert-your-3d-model-to-usdz-dac2e6205036)
 
 [Medium - If needed: details on editing USDZ files](https://medium.com/were-working-on-it/apples-arkit3-0-just-made-ar-actually-useful-for-us-fc66e1f1d3ae)
 
