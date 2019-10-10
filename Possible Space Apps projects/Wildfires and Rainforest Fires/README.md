@@ -10,3 +10,5 @@ Visualizing the fires in the Amazon - and around the world
 [Suomi NPP - NOAA/NASA Earth Satellite system](https://www.nasa.gov/mission_pages/NPP/main/index.html)
 
 [Wildfires mapping - A cloud example with a Jupyter notebook for Python experiments](https://medium.com/descarteslabs-team/fighting-wildfires-using-a-cloud-based-supercomputer-e6ca7852ff91)
+
+[NASA - Seeing through Smoke - YouTube](https://www.youtube.com/watch?v=4NBAlxwA6Rs)
