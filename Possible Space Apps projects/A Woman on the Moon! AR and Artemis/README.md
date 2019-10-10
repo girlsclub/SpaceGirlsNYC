@@ -10,7 +10,13 @@ Make an explainer, put Astrella on the moon, Make AR
 
 [Great planet and moon models](https://sketchfab.com/unaipl2003/models?cursor=cD0yMDE3LTAzLTI2KzE3JTNBMjElM0E0MC40NDY1MDg%3D)
 
+[Moon - Highest Resolution Color and Elevation Maps! - NASA](https://svs.gsfc.nasa.gov/4720)
+
 ---------------
+
+AUGMENTED REALITY!
+
+_________________
 
 Next three items require Apple Developer registration - See Dave
 
