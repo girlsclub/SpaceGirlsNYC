@@ -11,6 +11,10 @@ Look in folders for some sounds, and try these links for more
 
 [Spooky Sounds from Across the Solar System by NASA | Soundcloud](https://soundcloud.com/nasa/sets/spookyspacesounds)
 
+[LIGO Gravitational Wave - Chirp and Thump](https://www.youtube.com/watch?v=TWqhUANNFXw)
+
+[Gravitational Wave Open Science Center - Audio Files](https://www.gw-openscience.org/audio/)
+
 [Van Allen Probes - Spacecraft and Instruments | NASA](https://www.nasa.gov/mission_pages/rbsp/spacecraft/index.html)
 
 [EMFISIS- Instrument Description](https://emfisis.physics.uiowa.edu)
