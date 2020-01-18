@@ -57,14 +57,16 @@
 [Another way to trigger animations, on Youtube](https://www.youtube.com/watch?v=2bGa4bhOHeY)
 
 
-
 ### Make an AR app in Unity
 
 [Unity AR Foundation - Getting started (docs)](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@3.0/manual/index.html)
 
+[AR Foundation Youtube lessons](https://www.youtube.com/playlist?list=PL6VJLOFcTt7awvyIGIbLLPOBrW6-Y1R-J)
+
 [Unity AR Foundation example project](https://github.com/Unity-Technologies/arfoundation-samples)
 
 [AR Foundation Youtube setup videos (good series)](https://www.youtube.com/watch?v=iRxDKCc6Z64)
+
 
 
 ========================================
