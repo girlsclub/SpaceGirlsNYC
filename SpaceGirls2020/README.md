@@ -1,9 +1,11 @@
-# Girl Reality 2020
+# SpaceGirls2020
 ## Resources for new projects
 
 ==============================
 
 
+==============================
+## Girl Reality
 
 ### 360 Video - Tutorials and Links for Insta360 One X and Oculus Go
 
