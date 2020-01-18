@@ -32,6 +32,10 @@
 
 [Make your own VR world on the Web - Mozilla Spoke](https://hubs.mozilla.com/spoke)
 
+[Oculus Unity documentation](https://developer.oculus.com/unity/?locale=en_US)
+
+[Build an App for Oculus Go - Youtube tutorial](https://www.youtube.com/watch?v=LSypZfOChYE)
+
 
 ### Make an Augmented Reality experience - the easy apps
 
@@ -42,8 +46,15 @@
 [Eyejack for flat art and animations](https://eyejackapp.com/)
 
 
+## Make an AR App in unity
+
+[Unity AR Foundation example project](https://github.com/Unity-Technologies/arfoundation-samples)
+
+[AR Foundation Youtube setup videos (good series)](https://www.youtube.com/watch?v=iRxDKCc6Z64)
+
+
 ========================================
-## App Playground - Control your device!
+## App Playground - Coding for fun
 ========================================
 
 ### Start coding - From Scratch to Swift
@@ -61,9 +72,13 @@
 
 [Everything you need to know about SwiftUI](https://medium.com/a-developer-in-making/everything-you-need-to-know-about-swiftui-1dc4943f0e94)
 
+[How to layer views (make a splash page)](https://medium.com/@adamstrickland.osu/swiftui-how-to-stack-views-999bf7730016)
+
 [Beginner's guide to SwiftUI Buttons - Medium](https://medium.com/appcoda-tutorials/swiftui-buttons-74f21cb49d10)
 
 [Navigation from one view to another in SwiftUI](https://medium.com/@adamstrickland.osu/swiftui-navigating-from-one-view-to-another-with-navigationview-31ee4bce7498)
+
+[Build a video player in SwiftUI](https://medium.com/flawless-app-stories/build-video-player-in-ios-i-avplayer-43cd1060dbdc)
 
 [SwiftUI button loads an AR Quicklook](https://forums.developer.apple.com/thread/126377)
 
