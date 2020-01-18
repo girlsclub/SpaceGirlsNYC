@@ -37,7 +37,19 @@
 
 [Adobe's Aero app for iPhone](https://www.adobe.com/products/aero.html)
 
+[Eyejack for flat art and animations]
 
-### Make an App - coding your own app for iPhone with SwiftUI
+
+### Make a Neighborhood Tour App - coding your own app for iPhone with SwiftUI
+
+[Everything you need to know about SwiftUI](https://medium.com/a-developer-in-making/everything-you-need-to-know-about-swiftui-1dc4943f0e94)
+
+[Beginner's guide to SwiftUI Buttons - Medium](https://medium.com/appcoda-tutorials/swiftui-buttons-74f21cb49d10)
+
+[Navigation from one view to another in SwiftUI](https://medium.com/@adamstrickland.osu/swiftui-navigating-from-one-view-to-another-with-navigationview-31ee4bce7498)
 
 [SwiftUI button loads an AR Quicklook](https://forums.developer.apple.com/thread/126377)
+
+[Extracting Lat Long in Apple Maps](https://leancrew.com/all-this/2014/07/extracting-coordinates-from-apple-maps/)
+
+[MapKit in SwiftUI](https://medium.com/flawless-app-stories/mapkit-in-swiftui-c0cc2b07c28a)
