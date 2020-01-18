@@ -70,11 +70,13 @@
 [Swift Playgrounds - on Mac or iPad](https://www.apple.com/swift/playgrounds/)
 
 
-### Make a Neighborhood Tour App - code your own app for iPhone with SwiftUI
+### Let's make a Neighborhood Tour App - coding our own app for iPhone with SwiftUI
 
 [Apple's SwiftUI tutorial and template for our tour app](https://developer.apple.com/tutorials/swiftui/tutorials)
 
 [Everything you need to know about SwiftUI](https://medium.com/a-developer-in-making/everything-you-need-to-know-about-swiftui-1dc4943f0e94)
+
+[SwiftUI Cheat Sheet (tips and code)](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet)
 
 [How to layer views (make a splash page)](https://medium.com/@adamstrickland.osu/swiftui-how-to-stack-views-999bf7730016)
 
