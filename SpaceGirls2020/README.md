@@ -1,11 +1,11 @@
 # SpaceGirls2020
 ## Resources for new projects
-
 ==============================
 
 
 ==============================
 ## Girl Reality
+==============================
 
 ### 360 Video - Tutorials and Links for Insta360 One X and Oculus Go
 
@@ -39,10 +39,14 @@
 
 [Adobe's Aero app for iPhone](https://www.adobe.com/products/aero.html)
 
-[Eyejack for flat art and animations]
+[Eyejack for flat art and animations](https://eyejackapp.com/)
 
 
-### Make a Neighborhood Tour App - coding your own app for iPhone with SwiftUI
+========================================
+## App Playground - Control your device!
+========================================
+
+### Make a Neighborhood Tour App - code your own app for iPhone with SwiftUI
 
 [Everything you need to know about SwiftUI](https://medium.com/a-developer-in-making/everything-you-need-to-know-about-swiftui-1dc4943f0e94)
 
