@@ -15,7 +15,7 @@
 
 [Update Insta360 firmware](https://help.structionsite.com/en/articles/2732235-updating-the-insta360-one-x-firmwarex)
 
-[Insta360 Timelapse and Editing on iPhone](https://www.youtube.com/watch?v=23k2m8GHPJY)
+[Insta360 Timelapse, and Editing on iPhone](https://www.youtube.com/watch?v=23k2m8GHPJY)
 
 [View Insta360 photos and videos on the Go, wirelessly](https://360rumors.com/insta360-vr-now-available-use-wireless-viewing-insta360-one-x-insta360-evo/)
 
