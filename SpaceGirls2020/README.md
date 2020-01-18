@@ -21,6 +21,8 @@
 
 [Transfer files from your computer to Go, over USB](https://headjack.io/tutorial/sideload-360o-videos-oculus-go/)
 
+[Playing local and cloud-stored videos](http://echeng.com/articles/playing-local-and-cloud-stored-360-and-180-videos-in-oculus-go-vr-headset/)
+
 [Android File Transfer utility (for Mac to Go)](https://www.android.com/filetransfer/)
 
 [Use Firefox Reality browser on Oculus Go](https://blog.mozilla.org/firefox/firefox-reality-oculus-go-vr/)
@@ -47,6 +49,8 @@
 
 
 ### Make an AR app in Unity
+
+[Unity AR Foundation - Getting started (docs)](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@3.0/manual/index.html)
 
 [Unity AR Foundation example project](https://github.com/Unity-Technologies/arfoundation-samples)
 
