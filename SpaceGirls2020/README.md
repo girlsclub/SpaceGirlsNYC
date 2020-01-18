@@ -63,6 +63,10 @@
 
 [Hour of Code - Scratch to the Max - Dance Party!](https://hourofcode.com/us/learn)
 
+[Jump to three.js](https://threejs.org/)
+
+[Remix at Glitch](https://glitch.com/)
+
 [Swift Playgrounds - on Mac or iPad](https://www.apple.com/swift/playgrounds/)
 
 
