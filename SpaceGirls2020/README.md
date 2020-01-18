@@ -1,4 +1,4 @@
-# SpaceGirls 2020
+# Girl Reality 2020
 ## Resources for new projects
 
 ==============================
