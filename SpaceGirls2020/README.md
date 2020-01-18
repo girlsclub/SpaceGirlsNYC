@@ -48,6 +48,16 @@
 [Eyejack for flat art and animations](https://eyejackapp.com/)
 
 
+### Make an Augmented Reality app with Reality Composer and SwiftUI
+
+[First App with Reality Kit](https://medium.com/twinkl-educational-publishers/create-your-first-ar-app-with-realitykit-and-swiftui-7c5d1388b5)
+
+[How to trigger AR animations](https://medium.com/twinkl-educational-publishers/how-to-animate-ar-objects-with-swiftui-and-realitykit-b14730c4fad9)
+
+[Another way to trigger animations, on Youtube](https://www.youtube.com/watch?v=2bGa4bhOHeY)
+
+
+
 ### Make an AR app in Unity
 
 [Unity AR Foundation - Getting started (docs)](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@3.0/manual/index.html)
@@ -95,3 +105,12 @@
 [Extracting Lat Long in Apple Maps](https://leancrew.com/all-this/2014/07/extracting-coordinates-from-apple-maps/)
 
 [MapKit in SwiftUI](https://medium.com/flawless-app-stories/mapkit-in-swiftui-c0cc2b07c28a)
+
+[How to share our app](https://developer.apple.com/testflight/)
+
+
+### Learning trigonometry? I forgot it all. But we can code that!
+
+[Trigonometry Recipes for SwiftUI](https://swiftui-lab.com/trigonometric-recipes-for-swiftui/)
+
+[Advanced SwiftUI Animations](https://swiftui-lab.com/category/animations/)
