@@ -33,7 +33,7 @@
 [Make your own VR world on the Web - Mozilla Spoke](https://hubs.mozilla.com/spoke)
 
 
-### Make an Augmented Reality experience - easy apps
+### Make an Augmented Reality experience - the easy apps
 
 [Apple's Reality Composer app for iPhone](https://developer.apple.com/documentation/realitykit/creating_3d_content_with_reality_composer)
 
@@ -45,6 +45,15 @@
 ========================================
 ## App Playground - Control your device!
 ========================================
+
+### Start coding - From Scratch to Swift
+
+[Scratch](https://scratch.mit.edu/)
+
+[Hour of Code - Scratch to the Max - Dance Party!](https://hourofcode.com/us/learn)
+
+[Swift Playgrounds - on Mac or iPad](https://www.apple.com/swift/playgrounds/)
+
 
 ### Make a Neighborhood Tour App - code your own app for iPhone with SwiftUI
 
