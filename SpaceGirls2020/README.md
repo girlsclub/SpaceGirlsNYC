@@ -72,7 +72,7 @@
 
 ### Let's make a Neighborhood Tour App - coding our own app for iPhone with SwiftUI
 
-[Apple's SwiftUI tutorial and template for our tour app](https://developer.apple.com/tutorials/swiftui/tutorials)
+[Apple's SwiftUI tutorial (and template for our tour app)](https://developer.apple.com/tutorials/swiftui/tutorials)
 
 [Everything you need to know about SwiftUI](https://medium.com/a-developer-in-making/everything-you-need-to-know-about-swiftui-1dc4943f0e94)
 
