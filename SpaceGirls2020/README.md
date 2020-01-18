@@ -26,7 +26,7 @@
 [Use Firefox Reality browser on Oculus Go](https://blog.mozilla.org/firefox/firefox-reality-oculus-go-vr/)
 
 
-### Virtual reality
+### Virtual Reality
 
 [Social VR on the Web - Mozilla Hubs](https://hubs.mozilla.com/#/)
 
@@ -56,6 +56,8 @@
 
 
 ### Make a Neighborhood Tour App - code your own app for iPhone with SwiftUI
+
+[Apple's SwiftUI tutorial and template for our tour app](https://developer.apple.com/tutorials/swiftui/tutorials)
 
 [Everything you need to know about SwiftUI](https://medium.com/a-developer-in-making/everything-you-need-to-know-about-swiftui-1dc4943f0e94)
 
