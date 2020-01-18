@@ -46,7 +46,7 @@
 [Eyejack for flat art and animations](https://eyejackapp.com/)
 
 
-### Make an AR App in unity
+### Make an AR app in Unity
 
 [Unity AR Foundation example project](https://github.com/Unity-Technologies/arfoundation-samples)
 
