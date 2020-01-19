@@ -88,13 +88,19 @@
 
 ### Let's make a Neighborhood Tour App - coding our own app for iPhone with SwiftUI
 
+[We start with Xcode](https://developer.apple.com/library/archive/documentation/ToolsLanguages/Conceptual/Xcode_Overview/index.html#//apple_ref/doc/uid/TP40010215-CH24-SW1)
+
 [Apple's SwiftUI tutorial (and template for our tour app)](https://developer.apple.com/tutorials/swiftui/tutorials)
 
 [Everything you need to know about SwiftUI](https://medium.com/a-developer-in-making/everything-you-need-to-know-about-swiftui-1dc4943f0e94)
 
 [SwiftUI Cheat Sheet (tips and code)](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet)
 
-[How to layer views (make a splash page)](https://medium.com/@adamstrickland.osu/swiftui-how-to-stack-views-999bf7730016)
+[How to layer views (make a splash page with photo background)](https://medium.com/@adamstrickland.osu/swiftui-how-to-stack-views-999bf7730016)
+
+[Another splash page style](https://medium.com/better-programming/creating-an-apple-like-splash-screen-in-swiftui-fdeb36b47e81)
+
+[An even more complex splash page, with animated logo](https://www.raywenderlich.com/4503153-how-to-create-a-splash-screen-with-swiftui)
 
 [Beginner's guide to SwiftUI Buttons - Medium](https://medium.com/appcoda-tutorials/swiftui-buttons-74f21cb49d10)
 
