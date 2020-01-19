@@ -100,6 +100,8 @@
 
 [Another splash page style](https://medium.com/better-programming/creating-an-apple-like-splash-screen-in-swiftui-fdeb36b47e81)
 
+[You'll want the system icons - here's how](https://www.hackingwithswift.com/example-code/uikit/how-to-use-system-icons-in-your-app)
+
 [An even more complex splash page, with animated logo](https://www.raywenderlich.com/4503153-how-to-create-a-splash-screen-with-swiftui)
 
 [Beginner's guide to SwiftUI Buttons - Medium](https://medium.com/appcoda-tutorials/swiftui-buttons-74f21cb49d10)
