@@ -52,6 +52,8 @@
 
 [First App with Reality Kit](https://medium.com/twinkl-educational-publishers/create-your-first-ar-app-with-realitykit-and-swiftui-7c5d1388b5)
 
+[RealityKit Basics](https://medium.com/@larsaugustin)
+
 [How to trigger AR animations](https://medium.com/twinkl-educational-publishers/how-to-animate-ar-objects-with-swiftui-and-realitykit-b14730c4fad9)
 
 [Another way to trigger animations, on Youtube](https://www.youtube.com/watch?v=2bGa4bhOHeY)
