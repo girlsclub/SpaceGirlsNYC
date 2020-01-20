@@ -50,7 +50,7 @@
 
 ### Make an Augmented Reality app with Reality Composer and SwiftUI
 
-[First App with Reality Kit](https://medium.com/twinkl-educational-publishers/create-your-first-ar-app-with-realitykit-and-swiftui-7c5d1388b5)
+[First App with RealityKit](https://medium.com/twinkl-educational-publishers/create-your-first-ar-app-with-realitykit-and-swiftui-7c5d1388b5)
 
 [RealityKit Basics](https://medium.com/@larsaugustin)
 
