@@ -36,7 +36,9 @@
 
 [Oculus Unity documentation](https://developer.oculus.com/unity/?locale=en_US)
 
-[Build an App for Oculus Go - Youtube tutorial](https://www.youtube.com/watch?v=LSypZfOChYE)
+[Build a VR App for Oculus Go (on Windows) - Youtube tutorial](https://www.youtube.com/watch?v=LSypZfOChYE)
+
+[Build a VR App for Oculus Go (on MacOS)](https://medium.com/@sofaracing/how-to-develop-for-oculus-quest-on-macos-with-unity-5aa487b80d13)
 
 
 ### Make an Augmented Reality experience - the easy apps
