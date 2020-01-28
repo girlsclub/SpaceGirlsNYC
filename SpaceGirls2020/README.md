@@ -92,6 +92,11 @@
 [Swift Playgrounds - on Mac or iPad](https://www.apple.com/swift/playgrounds/)
 
 
+### Remember APOD? - Astronomy Picture of the Day - our basic Space App on iPhone with SwiftUI
+
+[A quick APOD demo - "Asynchronously Load Data from an API in SwiftUI"](https://schwiftyui.com/swiftui/asynchronously-load-data-from-an-api-in-swiftui/)
+
+
 ### Let's make a Neighborhood Tour App - coding our own app for iPhone with SwiftUI
 
 [We start with Xcode](https://developer.apple.com/library/archive/documentation/ToolsLanguages/Conceptual/Xcode_Overview/index.html#//apple_ref/doc/uid/TP40010215-CH24-SW1)
