@@ -96,7 +96,9 @@
 
 [A quick APOD demo - "Asynchronously Load Data from an API in SwiftUI"](https://schwiftyui.com/swiftui/asynchronously-load-data-from-an-api-in-swiftui/)
 
-[General tutorial on SwiftUI and JSON - pretty simple!](https://medium.com/@rbreve/displaying-a-list-with-swiftui-from-a-remote-json-file-6b4e4280a076)
+[General tutorial on SwiftUI and JSON - but a little too fast](https://medium.com/@rbreve/displaying-a-list-with-swiftui-from-a-remote-json-file-6b4e4280a076)
+
+[And here's an entire step-by-step build of APOD with SwiftUI!](https://www.youtube.com/watch?v=VMik0lgR2Do)
 
 
 ### Let's make a Neighborhood Tour App - coding our own app for iPhone with SwiftUI
