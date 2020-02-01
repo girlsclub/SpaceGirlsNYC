@@ -98,7 +98,9 @@
 
 [General tutorial on SwiftUI and JSON - but a little too fast](https://medium.com/@rbreve/displaying-a-list-with-swiftui-from-a-remote-json-file-6b4e4280a076)
 
-[And here's an entire step-by-step build of APOD with SwiftUI!](https://www.youtube.com/watch?v=VMik0lgR2Do)
+[And here's an entire step-by-step build of APOD with SwiftUI!(No sound, just typing)](https://www.youtube.com/watch?v=VMik0lgR2Do)
+
+[This one is shorter, just Swift, but explains some of the code better](https://www.youtube.com/watch?v=IxHnlp4JETA)
 
 
 ### Let's make a Neighborhood Tour App - coding our own app for iPhone with SwiftUI
